@@ -1,0 +1,1 @@
+Hello! This project is to test our my newly learned HTML basics and fundementals that I have learned so far. What I will be doing is to basically replicate a static google homepage with the search bar.
