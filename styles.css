@@ -1,4 +1,46 @@
+body {
+    margin: 0px;
+}
 #main-elements {
     text-align: center;
     padding-top: 250px;
+}
+#navigation {
+    list-style-type: none;
+}
+#right {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+#left {
+    display: flex;
+    list-style-type: none;
+}
+.right {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.left {
+    padding-right: 80px;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#footer-left {
+    display: flex;
+    list-style-type: none;
+}
+#footer-right {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+.footer-lefts {
+    padding-right: 80px;
+}
+.footer-rights {
+    padding-left: 80px;
 }
