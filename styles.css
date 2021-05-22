@@ -116,3 +116,14 @@ footer a {
     font-size: 14px;
     color: #5f6368;
 }
+#navbar a:hover {
+    text-decoration: underline;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+#two-buttons button:hover {
+    cursor: pointer;
+    border: 1px solid lightgrey;
+    font-weight: bold;
+}
